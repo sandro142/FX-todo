@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300204609861",
+    "project_id": "fxss-5e739",
+    "storage_bucket": "fxss-5e739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300204609861:android:73677828e02a19615b6e2c",
+        "android_client_info": {
+          "package_name": "com.example.fx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300204609861-5vsdkgbeleg797b4ickc8a7asf0isggv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7mpfjOmzOVMwpfkvC5rdMG7i9E4puyWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300204609861-5vsdkgbeleg797b4ickc8a7asf0isggv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
